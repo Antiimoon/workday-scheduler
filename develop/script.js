@@ -45,6 +45,7 @@ $(document).ready(function () {
   $("#hour3 .event").val(localStorage.getItem("hour3"));
   $("#hour4 .event").val(localStorage.getItem("hour4"));
   $("#hour5 .event").val(localStorage.getItem("hour5"));
+  $("#hou6 .event").val(localStorage.getItem("hour6"));
 
   timeTracker();
 })

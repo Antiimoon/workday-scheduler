@@ -31,10 +31,6 @@ textarea{
     border-radius: 15px;
 }
 
-li {
-    list-style: none;
-}
-
 .row {
     white-space: pre-wrap;
     height: 80px;
@@ -74,4 +70,5 @@ li {
     font-size: 20px;
     transition: all .3s ease-in-out;
 }
+
 
